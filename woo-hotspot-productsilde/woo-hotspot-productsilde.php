@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Woo Hotspot Product Slider
- * Description: Hotspot image + random products + desktop 50/50 + arrows + fixed product box width.
+ * Description: This plugin is for woocommerce product slide when clink on hotspot on the image product will show and if you click on arrow product will slide one y one(Hotspot image + random products + desktop 50/50 with arrow slider)
  * Version: 4.0
  * Author: Reetarani Samal
  */
